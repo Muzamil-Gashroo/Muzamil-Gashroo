@@ -1,4 +1,4 @@
-## Hello :)
+## Writes code. Sometimes it works
 
 
 ### 🛠️ Languages I Use
